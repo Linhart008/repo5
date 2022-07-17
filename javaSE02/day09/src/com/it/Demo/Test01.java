@@ -110,11 +110,20 @@ public class Test01 {
 
     public void test() {
         System.out.println("456");
-    }public void test() {
+    }
+
+    public void test() {
         System.out.println("789");
-    }public void test() {
+    }
+
+    public void test() {
         System.out.println("234");
-    }public void test() {
+    }
+
+    public void test() {
         System.out.println("666");
+        public void test () {
+            System.out.println("3456");
+        }
     }
 }
