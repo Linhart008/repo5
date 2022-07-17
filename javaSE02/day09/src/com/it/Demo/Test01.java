@@ -122,8 +122,12 @@ public class Test01 {
 
     public void test() {
         System.out.println("666");
-        public void test () {
-            System.out.println("3456");
-        }
+
+    }public void test() {
+        System.out.println("879789");
+
+    }public void test() {
+        System.out.println("3465645");
+
     }
 }
